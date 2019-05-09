@@ -19,7 +19,7 @@ Wir möchten/wollen eine Party machen, **um** Nikolaustag **zu** feiern.
 Ich habe keine Zeit, **um** keine Hausaufgaben **zu** machen.
 
 
-**so <adj>, dass** ... 以至於
+**so *adj.*, dass** ... 以至於
 
 Das Wetter ist **so** kalt, **dass** man zu Hause bleibt.
 
@@ -41,19 +41,19 @@ Wir möchten/wollen **eine Party zu**r Nikolaustag**feier** **machen**.
 Lektion 14E
 ---
 
-<dl>
-  <dt>verstecken (*etw<pre>Akk</pre>*), 藏(東西、某人)</dt>
-  <dd>
-    > Sie verstecken Ostereier.
+verstecken (*etw^Akk^*), 藏(東西、某人)
+: > Sie verstecken Ostereier.
 
-    das Versteckspiel, -e, 追迷藏
-  </dd>
+  das Versteckspiel, -e, 追迷藏
 
-  <dt>der Bart, &#11802;e, 鬍子</dt>
-  <dd>
-    > Sein Bart ist weiß.
-  </dd>
-</dl>
+  stecken, v, put, plug, 插（電、線⋯⋯
+  : der Stecker, -, 插頭
+    die Steckdose, -n, 插座
+
+
+religiös, adj., 宗教的
+: die Religion, -en, 宗教
+  (die Region, -en, 地區)
 
 ### 問候語
 Frohe Ostern!
