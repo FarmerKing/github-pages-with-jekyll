@@ -2,8 +2,6 @@
 title: "A Test"
 date: 2019-05-09
 tags: [deutsch]
-layout: post
-
 ---
 # 2019-05-09-ttt
 
